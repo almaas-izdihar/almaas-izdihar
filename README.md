@@ -1,6 +1,6 @@
 [![An image of @almaasice's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/almaasice)](https://holopin.io/@almaasice)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,vercel,firebase,nextjs,tailwindcss,react,fastapi,nodejs,expressjs,typescript,javascript,python,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,linux,vercel,firebase,nextjs,tailwindcss,react,fastapi,nodejs,expressjs,typescript,javascript,python,postgres,mongodb,html,css)](https://skillicons.dev)
 
 
 <!--
